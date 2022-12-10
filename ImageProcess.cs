@@ -1,6 +1,7 @@
 // 2020.8.13
 // by LeviKing98
 // github: https://github.com/LeviKing98
+// CSDN：https://blog.csdn.net/LeviKing98
 
 // 图像大小：70 * 186
 // 2020年智能车竞赛 双车组/三轮车 图像处理代码 (C#)
