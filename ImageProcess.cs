@@ -4,7 +4,8 @@
 // CSDN：https://blog.csdn.net/LeviKing98
 
 // 图像大小：70 * 186
-// 2020年智能车竞赛 双车组/三轮车 图像处理代码 (C#)
+// 2020年第十五届智能车竞赛 双车组/三轮车 图像处理代码 (C#)
+
 #define UpperComputer
 using System;
 using System.Collections.Generic;
